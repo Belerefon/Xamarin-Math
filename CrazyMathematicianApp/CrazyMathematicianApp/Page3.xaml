@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrazyMathematicianApp.Page3"
+             NavigationPage.HasNavigationBar="false"
+             BackgroundColor="#333"
+             Padding="20, 130, 20, 0">
+    
+    <StackLayout>
+
+        <Label Text="Διάλεξε Μάθημα"
+               Style="{StaticResource mainLabelStyle}"
+               HeightRequest="160"/>
+
+        <Button x:Name="button1"
+                Style="{StaticResource buttonStyle}"
+                Clicked="Button1"/>
+
+        <StackLayout Padding="0, 0, 0, 10"></StackLayout>
+
+        <Button x:Name="button2"
+                Style="{StaticResource buttonStyle}"
+                Clicked="Button2"/>
+
+    </StackLayout>
+    
+</ContentPage>

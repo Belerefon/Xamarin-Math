@@ -1,0 +1,15 @@
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\bin\Debug\netstandard2.0\CrazyMathematicianApp.deps.json
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\bin\Debug\netstandard2.0\CrazyMathematicianApp.dll
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\bin\Debug\netstandard2.0\CrazyMathematicianApp.pdb
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\CrazyMathematicianApp.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\CrazyMathematicianApp.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\CrazyMathematicianApp.AssemblyInfo.cs
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\CrazyMathematicianApp.dll
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\CrazyMathematicianApp.pdb
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\Page4.xaml.g.cs
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\George\source\repos\CrazyMathematicianApp\CrazyMathematicianApp\CrazyMathematicianApp\obj\Debug\netstandard2.0\CrazyMathematicianApp.csprojAssemblyReference.cache

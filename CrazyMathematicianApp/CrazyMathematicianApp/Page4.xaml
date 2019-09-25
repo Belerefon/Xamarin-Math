@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrazyMathematicianApp.Page4"
+             NavigationPage.HasNavigationBar="false"
+             BackgroundColor="#333"
+             Padding="20,50, 20, 0">
+
+    <StackLayout>
+        
+        <Label Text="Βάλε τους Βαθμούς σου"
+               Style="{StaticResource mainLabelStyle}"
+               HeightRequest="100"/>
+    
+        <StackLayout Orientation="Horizontal"
+                     Padding="50, 0, 50, 10">
+            <Label x:Name="label1"
+                   Style="{StaticResource labelStyle}"/>
+            <Entry x:Name="entry1"
+                   Style="{StaticResource entryStyle}"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal"
+                     Padding="50, 0, 50, 10">
+            <Label x:Name="label2"
+                   Style="{StaticResource labelStyle}"/>
+            <Entry x:Name="entry2"
+                   Style="{StaticResource entryStyle}"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal"
+                     Padding="50, 0, 50, 10">
+            <Label x:Name="label3"
+                   Style="{StaticResource labelStyle}"/>
+            <Entry x:Name="entry3"
+                   Style="{StaticResource entryStyle}"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal"
+                     Padding="50, 0, 50, 50">
+            <Label x:Name="label4"
+                   Style="{StaticResource labelStyle}"/>
+            <Entry x:Name="entry4"
+                   Style="{StaticResource entryStyle}"/>
+        </StackLayout>
+        
+        <Button Text="Calculate"
+                Style="{StaticResource buttonStyle}"
+                Clicked="ButtonCalculate"/>
+
+        <StackLayout Orientation="Horizontal"
+                     Padding="50, 50, 50, 0">
+            <Label Text="Μόρια:"
+                   Style="{StaticResource labelStyle}"/>
+            <Label x:Name="labelApotelesma"
+                   FontSize="24"
+                   HorizontalOptions="EndAndExpand"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   />
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

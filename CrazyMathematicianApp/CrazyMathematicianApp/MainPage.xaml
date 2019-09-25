@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CrazyMathematicianApp"
+             x:Class="CrazyMathematicianApp.MainPage"
+             NavigationPage.HasNavigationBar="false"
+             BackgroundColor="#333"
+             Padding="20, 150, 20, 0">
+
+    <StackLayout>
+
+        <Label Text="Crazy Mathematician"
+               Style="{StaticResource mainLabelStyle}"
+               HeightRequest="170"
+               />
+        
+        <Button Text="Start"
+                Style="{StaticResource buttonStyle}"
+                Clicked="Button_Start"/>
+        
+    </StackLayout>
+
+</ContentPage>
